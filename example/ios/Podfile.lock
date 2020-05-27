@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - lwplugin (0.0.1):
+    - Flutter
+    - Masonry (= 1.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - lwplugin (from `.symlinks/plugins/lwplugin/ios`)
+
+SPEC REPOS:
+  https://gitee.com/mirrors/CocoaPods-Specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  lwplugin:
+    :path: ".symlinks/plugins/lwplugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  lwplugin: c1dda854b02f385d95ff878385ac7ff3e96bd1fa
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: d941fda550e741ff4f553a562ffa30900a23957f
+
+COCOAPODS: 1.9.1
